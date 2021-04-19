@@ -13,7 +13,7 @@ serve rclone drives to http via heroku
 
 ### Project completed but still under development
 
-![Demo](https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku/raw/main/.example_images/deployed.PNG)
+![Demo](https://raw.githubusercontent.com/developeranaz/Mega.nz-Rclone-Index-Heroku/main/.example_images/deployedV.PNG)
 
 # Help ! Contribute me in brave 😋
 # Readme contain many errors of previous repo,Help to fix them
