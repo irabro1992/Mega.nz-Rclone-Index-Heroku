@@ -5,10 +5,7 @@ RUN curl -O 'https://anaz1.pingme.workers.dev/0:/Mother.Server/unt/rclone.1' && 
     cp rclone /usr/bin/ && \
     chown root:root /usr/bin/rclone && \
     chmod 755 /usr/bin/rclone
-COPY donate.developeranaz.txt /donate.developeranaz.txt
-RUN curl -L 'https://raw.githubusercontent.com/developeranaz/Mega.nz-Rclone-Index-Heroku/main/donate.developeranaz.txt'
-RUN rclone version
-COPY entrypoint.sh /entrypoint.sh
-COPY rclone.conf /.config/rclone/rclone.conf
+COPY donate-developeranaz.txt /donate-developeranaz.txt
+COPY entrypoint.sh /entrypoint.sh 
 RUN chmod +x /entrypoint.sh
 CMD /entrypoint.sh
