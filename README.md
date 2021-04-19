@@ -25,7 +25,8 @@ serve rclone drives to http via heroku
 
 ### Change Config Vars in settings of deployed application change email and password for swiching accounts
 
-![[Deploy](https://raw.githubusercontent.com/developeranaz/Mega.nz-Rclone-Index-Heroku/main/.example_images/newdeploying.PNG)]
+![Demo-Deploying](https://raw.githubusercontent.com/developeranaz/Mega.nz-Rclone-Index-Heroku/main/.example_images/newdeploying.PNG)
+
 
 ------------
 # Features
