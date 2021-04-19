@@ -1,6 +1,6 @@
 
 # Mega.nz-Rclone-Index-Heroku
-## heroku-rclone-serve V2
+## heroku-rclone-serve V3
 serve rclone drives to http via heroku
 
 # [RAPID DEPLOYMENT AVAILABLE](https://dashboard.heroku.com/new?template=https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku) without froking or github account.
