@@ -1,11 +1,14 @@
-https://dashboard.heroku.com/new?template=https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku
+
 # Mega.nz-Rclone-Index-Heroku
 ## heroku-rclone-serve V2
 serve rclone drives to http via heroku
+
+# [RAPID DEPLOYMENT AVAILABLE](https://dashboard.heroku.com/new?template=https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku) without froking or github account.
 [![Deploy](https://iplogger.org/3pXvM3)](https://dashboard.heroku.com/new?template=https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku)
+
 ##### STAR & FROK MY REPO IF YOU LIKE IT OR FOLLOW ME ON [INSTAGRAM](https://www.instagram.com/t_h_e_anas).
 
-# Rapid diployment Available without froking or github account.
+# Rapid deployment Available without froking or github account.
 ### Use your Real mega Username/Email and real Password (without encryption) normally.
 
 ### Project completed but still under development
