@@ -1,13 +1,14 @@
-https://dashboard.heroku.com/new?template=https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku-BETA
-# Mega.nz-Rclone-Index-Heroku-BETA (You are one step ahead)
+https://dashboard.heroku.com/new?template=https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku
+# Mega.nz-Rclone-Index-Heroku
 ## heroku-rclone-serve V2
 serve rclone drives to http via heroku
-[![Deploy](https://iplogger.org/3pXvM3)](https://dashboard.heroku.com/new?template=https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku-BETA)
-## STAR &FROK MY REPO IF YOU LIKE IT OR FOLLOW ME ON INSTAGRAM.
+[![Deploy](https://iplogger.org/3pXvM3)](https://dashboard.heroku.com/new?template=https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku)
+##### STAR & FROK MY REPO IF YOU LIKE IT OR FOLLOW ME ON [INSTAGRAM](https://www.instagram.com/t_h_e_anas).
+
 # Rapid diployment Available without froking or github account.
 ### Use your Real mega Username/Email and real Password (without encryption) normally.
 
-### Project completed but still under development BETA
+### Project completed but still under development
 
 ![Demo](https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku/raw/main/.example_images/deployed.PNG)
 
@@ -42,7 +43,7 @@ serve rclone drives to http via heroku
 ##### Multi-threat support upto 5x
 
 
-[![Deploy](https://iplogger.org/3pXvM3)](https://dashboard.heroku.com/new?template=https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku-BETA)
+[![Deploy](https://iplogger.org/3pXvM3)](https://dashboard.heroku.com/new?template=https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku)
 
 
 ---
