@@ -6,7 +6,7 @@ serve rclone drives to http via heroku
 ### [RAPID DEPLOYMENT AVAILABLE](https://dashboard.heroku.com/new?template=https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku) without froking or github account.
 [![Deploy](https://iplogger.org/3pXvM3)](https://dashboard.heroku.com/new?template=https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku)
 
-### Use your Real mega Username/Email and real Password (without encryption) normally. 
+Use your Real mega Username/Email and real Password (without encryption) normally. 
 
 ##### STAR & FROK MY REPO IF YOU LIKE IT OR FOLLOW ME ON [INSTAGRAM](https://www.instagram.com/t_h_e_anas).
 
