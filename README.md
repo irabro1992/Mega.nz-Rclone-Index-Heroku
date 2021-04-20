@@ -54,7 +54,7 @@ Use your Real mega Username/Email and real Password (without encryption) normall
 ##### Multi-threat support upto 9x (stable)
 
 
-[![Deploy](https://iplogger.org/3pXvM3)](https://dashboard.heroku.com/new?template=https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku)
 
 
 ---
