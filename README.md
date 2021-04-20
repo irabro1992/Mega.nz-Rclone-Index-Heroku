@@ -75,7 +75,7 @@ Use your Real mega Username/Email and real Password (without encryption) normall
 ### Donate me 😊
 
 
-###### megaindex mega.nz index mega index meganzindex meganz index mega nz mega storage megamount mount gdrive drive mega link megalink megalinkindex Bhadoo Cloud indexing downloader quota meganzquota bypass mega.nzquata megaquota
+###### megaindex mega.nz index mega index meganzindex meganz index mega nz mega storage megamount mount gdrive drive mega link megalink megalinkindex Bhadoo Cloud indexing downloader quota meganzquota bypass mega.nzquata meganz index megaquota
 
-<meta name="googlec978fa026335d582.html" content="...">
+<meta name="googlec978fa026335d582.html meganz index mega.nz index meganzindex" content="...">
 <meta name="google-site-verification: googlec978fa026335d582.html" content="...">
