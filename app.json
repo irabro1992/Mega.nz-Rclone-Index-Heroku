@@ -1,8 +1,8 @@
 {
-  "name": "heroku-rclone-serve",
+  "name": "heroku-mega-index",
   "description": "A rclone serve index using Docker.",
   "logo": "https://forum.rclone.org/uploads/default/original/2X/0/0f430bb0f2f7a9ed020a9e93c89f4d332adcac4b.gif",
-  "keywords": ["nginx", "docker", "rclone", "index"],
+  "keywords": ["nginx", "megafileindex", "mega", "mega.nz", "megaindex", "mega.nz-index", "mega-dl", "mega.nz-downloader", "mega-backdoor", "megaindex-backdoor", "rclone", "index"],
   "env": {
      "UserName": {
       "description": "Please enter Your MEGA.NZ Username/Email",
