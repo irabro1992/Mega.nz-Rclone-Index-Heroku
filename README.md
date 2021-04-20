@@ -50,7 +50,7 @@ Use your Real mega Username/Email and real Password (without encryption) normall
 ##### No download limit or quota limit
 
 ##### pause download available (Use download Managers like ADM ,XDM, Aria2 for more stability)
-##### Multi-threat support upto 5x
+##### Multi-threat support upto 9x (stable)
 
 
 [![Deploy](https://iplogger.org/3pXvM3)](https://dashboard.heroku.com/new?template=https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku)
