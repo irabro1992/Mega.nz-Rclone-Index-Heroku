@@ -10,6 +10,8 @@ This creates a backdoor for mega storage and serves publicly.
 #### [RAPID DEPLOYMENT AVAILABLE](https://dashboard.heroku.com/new?template=https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku) without froking or github account.
 [![Deploy](https://iplogger.org/3pXvM3)](https://dashboard.heroku.com/new?template=https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy=https://developeranaz.github.io/Mega.nz-Rclone-Index-Heroku/)
+
 Use your Real mega Username/Email and real Password (without encryption) normally. 
 
 ##### STAR & FROK MY REPO IF YOU LIKE IT OR FOLLOW ME ON [INSTAGRAM](https://www.instagram.com/t_h_e_anas).
@@ -30,7 +32,6 @@ Use your Real mega Username/Email and real Password (without encryption) normall
 ### Change Config Vars in settings of deployed application change email and password for swiching accounts
 
 # ![Demo-Deploying](https://raw.githubusercontent.com/developeranaz/Mega.nz-Rclone-Index-Heroku/main/.example_images/newdeploying.PNG)
-
 
 ------------
 # Features
