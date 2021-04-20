@@ -29,7 +29,7 @@ Use your Real mega Username/Email and real Password (without encryption) normall
 
 ### Change Config Vars in settings of deployed application change email and password for swiching accounts
 
-![Demo-Deploying](https://raw.githubusercontent.com/developeranaz/Mega.nz-Rclone-Index-Heroku/main/.example_images/newdeploying.PNG)
+# ![Demo-Deploying](https://raw.githubusercontent.com/developeranaz/Mega.nz-Rclone-Index-Heroku/main/.example_images/newdeploying.PNG)
 
 
 ------------
